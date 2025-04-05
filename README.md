@@ -1,9 +1,10 @@
 # Office-Hours
+Download files, then add all 3 folders into a single new folder (name it Office Hours or something) and open this new folder on VS Code.
+
 (NEDEED)
-Download the files and create a ".env" file on each of the 3 folders. 
+Create a ".env" file on each of the 3 folders. 
 Then paste the info found on the ENV Word document inside the .env files for the corresponding folders. 
 
-Add all 3 folders into a single new folder (name it Office Hours or something) and open this new folder on VS Code.
 Make sure you have node.js installed on your device before starting.
 
 1)First you may have to open each folder: backend, frontend-admin & frontend-user on the integrated terminal.
