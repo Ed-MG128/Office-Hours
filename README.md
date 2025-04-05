@@ -1,6 +1,9 @@
 # Office-Hours
 Make sure you have node.js installed on your device before starting
 
+(NEDEED)
+Download the files and add each of the corresponding ".env" files for the backend, frontend-admin & frontend-users folders
+
 1)First you may have to open each folder: backend, frontend-admin & frontend-user on the integrated terminal
 Then write command on terminal "npm install" to install dependencies on each folder
 
